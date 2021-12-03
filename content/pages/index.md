@@ -251,7 +251,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-a
-    title: Style your pages and components confidently
+    title: Visually edit and style pages and components.
     text: >
       Our world-class visual editing experience is fast, intuitive, and
       powerful. WYSIWYG in-place editing, reusable components, layouts,
