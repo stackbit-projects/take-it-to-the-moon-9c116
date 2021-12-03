@@ -257,7 +257,7 @@ sections:
       together
     media:
       type: ImageBlock
-      url: /images/Image-on-the-right.svg
+      url: /images/VIsually unlimited-7c7ce0ec.png
       altText: Hero section image
     styles:
       self:
