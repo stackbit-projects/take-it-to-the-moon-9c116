@@ -59,7 +59,7 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Watch Video
+        label: Read more
         url: /
         showIcon: true
         icon: arrowRight
