@@ -364,7 +364,7 @@ sections:
       - quote: >
           “Stackbit is a visual editor for your site, regardless of the tech
           choices behind it - a rather amazing thing to see work.”
-        name: Chris Coyer
+        name: Chris Coyier
         title: Happy customer
         image:
           type: ImageBlock
