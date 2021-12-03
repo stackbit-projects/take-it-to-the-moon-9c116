@@ -288,7 +288,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    title: 'Your site and your code, no hidden lock-ins or magic'
+    title: Your site. Your code.
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
