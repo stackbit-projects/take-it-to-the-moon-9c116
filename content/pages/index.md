@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Your Starting Point To An Infinitely Scalable Site
+    title: "Your Starting Point To An Infinitely Scalable Site \U0001F680"
     text: "This starter includes a comprehensive component library that you can either use out of the box without having to code, or extend and add components if the code is strong with you \U0001F642\n"
     actions:
       - type: Button
