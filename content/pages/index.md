@@ -162,8 +162,8 @@ sections:
     elementId: ''
     title: This featured items section is versatile
     subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+      You can use it to highlight features of your product, key benefits,
+      services you provide, books you like, etc.
     items:
       - type: FeaturedItem
         title: Faster
