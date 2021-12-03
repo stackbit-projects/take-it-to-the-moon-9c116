@@ -186,8 +186,8 @@ sections:
       - type: FeaturedItem
         title: Smarter
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Work smarter leveraging a state-of-the-art component library and
+          content models to future-proof your site.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
