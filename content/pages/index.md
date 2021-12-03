@@ -289,9 +289,7 @@ sections:
   - elementId: ''
     colors: colors-a
     title: Your site. Your code.
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: "A Stackbit website is a git repo that you own. Every code commit is instantly reflected in the visual editor and since every visual edit is a git commit, git workflows and collaboration\_*just work*.\n"
     media:
       type: ImageBlock
       url: /images/project-diagram.png
