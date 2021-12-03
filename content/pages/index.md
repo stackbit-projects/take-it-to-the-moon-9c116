@@ -158,7 +158,7 @@ sections:
     imageSizePx: 240
     type: MediaGallerySection
     title: Try Deleting This Title Completely
-  - colors: colors-h
+  - colors: colors-g
     elementId: ''
     title: 'Feature Section Demo: Using Stackbit'
     subtitle: This section is highly versatile and has many configurations
