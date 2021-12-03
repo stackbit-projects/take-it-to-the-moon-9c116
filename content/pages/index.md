@@ -360,9 +360,9 @@ sections:
     type: TextSection
   - elementId: ''
     colors: colors-a
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >
+      “Stackbit is a visual editor for your site, regardless of the tech choices
+      behind it - a rather amazing thing to see work.”
     name: |+
       Chris Coyier
 
