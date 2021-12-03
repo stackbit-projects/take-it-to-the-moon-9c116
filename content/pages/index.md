@@ -205,8 +205,9 @@ sections:
       - type: FeaturedItem
         title: Focused
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Developers can write components and automate workflows while site
+          builders and focus on creating the right sites to deliver their
+          messages across.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
