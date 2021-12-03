@@ -51,8 +51,8 @@ sections:
     colors: colors-f
     title: Each section on this page is a component
     text: >
-      This page is composed of a list of sections, you can add more sections of
-      various t
+      You can add more components to the page by either pressing the ➕that
+      appears on components' highlight frames, or through the left sidebar. 
     actions:
       - type: Button
         label: Sign Up
