@@ -160,7 +160,7 @@ sections:
     title: Try Deleting This Title Completely
   - colors: colors-h
     elementId: ''
-    title: This featured items section is versatile
+    title: 'Feature Section Demo: Using Stackbit'
     subtitle: >-
       You can use it to highlight features of your product, key benefits,
       services you provide, books you like, etc.
