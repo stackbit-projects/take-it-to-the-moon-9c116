@@ -49,7 +49,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: Where did everyone go?
+    title: This is an instance of a "Hero" type section
     text: >
       Learn how top tech companies have learned working remote using our
       product.
