@@ -49,7 +49,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: This page is composed of a list of components called "Sections"
+    title: Each section on this page is a component
     text: >
       This page is composed of a list of sections, you can add more sections of
       various t
