@@ -251,7 +251,7 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-a
-    title: 'A great feature, we’re proud of'
+    title: Style your pages and components confidently
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
