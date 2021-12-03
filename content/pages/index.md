@@ -364,7 +364,7 @@ sections:
       - quote: >
           “Stackbit is a visual editor for your site, regardless of the tech
           choices behind it - a rather amazing thing to see work.”
-        name: Carla Rogers
+        name: Chris Coyer
         title: Happy customer
         image:
           type: ImageBlock
