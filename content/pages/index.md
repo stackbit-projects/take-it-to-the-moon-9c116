@@ -324,10 +324,13 @@ sections:
   - elementId: ''
     colors: colors-a
     text: >+
-      ## “We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing”
+      ## “Stackbit is a visual editor for your site, regardless of the tech
+      choices behind it - a rather amazing thing to see work.”
 
-      [See all posts](/blog)
+
+
+
+      Chris Coyier, CSS Tricks
 
     styles:
       self:
