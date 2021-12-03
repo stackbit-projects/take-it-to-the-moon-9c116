@@ -322,7 +322,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-g
+    colors: colors-f
     testimonials:
       - quote: >
           “Stackbit is a visual editor for your site, regardless of the tech
