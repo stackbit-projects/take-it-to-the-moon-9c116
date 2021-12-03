@@ -294,7 +294,7 @@ sections:
       together
     media:
       type: ImageBlock
-      url: /images/Image-on-the-left.svg
+      url: /images/project-diagram.png
       altText: Hero section image
     styles:
       self:
