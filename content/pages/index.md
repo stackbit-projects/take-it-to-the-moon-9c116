@@ -368,7 +368,7 @@ sections:
         title: Happy customer
         image:
           type: ImageBlock
-          url: /images/carla.jpg
+          url: /images/chris-coyier.png
           altText: Photo of Isabelle Parks
         styles:
           self:
