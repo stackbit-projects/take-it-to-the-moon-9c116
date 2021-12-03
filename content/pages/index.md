@@ -49,7 +49,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: This is an instance of a "Hero" type section
+    title: This page is composed of a list of components called "Sections"
     text: >
       This page is composed of a list of sections, you can add more sections of
       various t
