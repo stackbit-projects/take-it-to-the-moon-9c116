@@ -323,43 +323,6 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    text: >+
-      ## “Stackbit is a visual editor for your site, regardless of the tech
-      choices behind it - a rather amazing thing to see work.”
-
-
-
-
-      Chris Coyier, CSS Tricks
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-22
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-    type: TextSection
-  - elementId: ''
-    colors: colors-a
     testimonials:
       - quote: >
           “Stackbit is a visual editor for your site, regardless of the tech
