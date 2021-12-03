@@ -6,10 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: Your Starting Point To An Infinitely Scalable Site
-    text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: "This starter includes a comprehensive component library that you can either use out of the box without having to code, or extend and add components if the code is strong with you \U0001F642\n"
     actions:
       - type: Button
         label: Sign up
