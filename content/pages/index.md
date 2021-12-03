@@ -366,7 +366,7 @@ sections:
     name: |+
       Chris Coyier
 
-    title: Product Marketing Manager at Acme
+    title: CSS Tricks
     styles:
       self:
         height: auto
