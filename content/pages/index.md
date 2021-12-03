@@ -160,7 +160,7 @@ sections:
     title: Try Deleting This Title Completely
   - colors: colors-h
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: This featured items section is versatile
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
