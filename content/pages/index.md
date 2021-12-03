@@ -168,8 +168,9 @@ sections:
       - type: FeaturedItem
         title: Faster
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Stackbit enables you to build sites faster, based on templates you've
+          already set up and so you can unblock your clients or marketing teams
+          and be their superhero!
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
