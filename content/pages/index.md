@@ -55,7 +55,7 @@ sections:
       appears on components' highlight frames, or through the left sidebar.
     actions:
       - type: Button
-        label: Sign Up
+        label: Try Pressing the +s
         url: /
         style: primary
       - type: Link
