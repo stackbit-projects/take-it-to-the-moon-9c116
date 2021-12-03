@@ -166,9 +166,9 @@ sections:
       - type: FeaturedItem
         title: Faster
         text: >
-          Stackbit enables you to build sites faster, based on templates you've
-          already set up and so you can unblock your clients or marketing teams
-          and be their superhero!
+          Stackbit makes you faster, if you're a developer unblocking your team
+          or client, or if you're a creator that needs to ship an effective
+          page.
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
