@@ -51,8 +51,8 @@ sections:
     colors: colors-f
     title: This is an instance of a "Hero" type section
     text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+      This page is composed of a list of sections, you can add more sections of
+      various t
     actions:
       - type: Button
         label: Sign Up
