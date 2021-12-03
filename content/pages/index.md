@@ -161,9 +161,7 @@ sections:
   - colors: colors-h
     elementId: ''
     title: 'Feature Section Demo: Using Stackbit'
-    subtitle: >-
-      You can use it to highlight features of your product, key benefits,
-      services you provide, books you like, etc.
+    subtitle: This section is highly versatile and has many configurations
     items:
       - type: FeaturedItem
         title: Faster
