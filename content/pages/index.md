@@ -253,8 +253,11 @@ sections:
     colors: colors-a
     title: Style your pages and components confidently
     text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      Our world-class visual editing experience is fast, intuitive, and
+      powerful. WYSIWYG in-place editing, reusable components, layouts,
+      variations, styling, media, and more. Everything you've come to expect
+      from a modern visual site builder. Move fast without developer help or
+      having to worry about breaking anything.
     media:
       type: ImageBlock
       url: /images/VIsually unlimited-7c7ce0ec.png
