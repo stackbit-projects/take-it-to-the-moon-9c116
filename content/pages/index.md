@@ -157,7 +157,7 @@ sections:
         textAlign: center
     imageSizePx: 240
     type: MediaGallerySection
-    title: Random Logos
+    title: Try Deleting This Title Completely
   - colors: colors-h
     elementId: ''
     title: Remote doesn’t mean alone. Here are so great features
