@@ -15,7 +15,7 @@ sections:
         elementId: hero-main-button
     media:
       type: ImageBlock
-      url: /images/apple.svg
+      url: /images/box-small.png
       altText: Image alt text
       caption: Image caption
     styles:
